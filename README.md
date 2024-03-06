@@ -22,6 +22,6 @@ A partir desses dados, gostaríamos de realizar as seguintes análises:
 Com isso, pretendemos responder a uma variedade de questões relacionadas ao mercado automotivo global, desde as preferências dos clientes até a performance dos revendedores e fatores que influenciam os preços dos veículos. Essas análises proporcionarão uma visão abrangente e estratégica para os diversos agentes envolvidos na indústria automotiva.
 
 Integrantes do Projeto
-Gabriel Vilarinho : https://www.linkedin.com/in/gabriel-vilarinho/
-Jésya Lima : https://www.linkedin.com/in/jesyadelima/
-Renan Silva: https://www.linkedin.com/in/renan-msilva/
+- Gabriel Vilarinho : https://www.linkedin.com/in/gabriel-vilarinho/
+- Jésya Lima : https://www.linkedin.com/in/jesyadelima/
+- Renan Silva: https://www.linkedin.com/in/renan-msilva/
