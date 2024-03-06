@@ -4,20 +4,20 @@ Com o constante dinamismo do mercado automotivo global, a análise de dados dese
 
 A partir desses dados, gostaríamos de realizar as seguintes análises:
 
-- Análise de Vendas por Região do Revendedor/n
-- Segmentação de Clientes por Gênero e Renda Anual/n
-- Preço Médio por Modelo de Carro/n
-- Análise Temporal de Vendas/n
-- Desempenho de Revendedores/n
-- Análise de Correlação/n
-- Distribuição de Estilos de Carro Vendidos/n
-- Variação de Preço por Cor e Estilo do Carro/n
-- Análise de Demanda por Região e Estilo do Carro/n
-- Análise de Desempenho do Modelo de Carro ao Longo do Tempo/n
-- Análise de Sazonalidade nas Vendas de Carros/n
-- Análise de Lucratividade por Modelo de Carro e Revendedor/n
-- Análise de Preferências de Transmissão por Gênero\n
-- Análise de Correlação entre Características do Carro e Preço\n
+- Análise de Vendas por Região do Revendedor
+- Segmentação de Clientes por Gênero e Renda Anual
+- Preço Médio por Modelo de Carro
+- Análise Temporal de Vendas
+- Desempenho de Revendedores
+- Análise de Correlação
+- Distribuição de Estilos de Carro Vendidos
+- Variação de Preço por Cor e Estilo do Carro
+- Análise de Demanda por Região e Estilo do Carro
+- Análise de Desempenho do Modelo de Carro ao Longo do Tempo
+- Análise de Sazonalidade nas Vendas de Carros
+- Análise de Lucratividade por Modelo de Carro e Revendedor
+- Análise de Preferências de Transmissão por Gênero
+- Análise de Correlação entre Características do Carro e Preço
 
 Com isso, pretendemos responder a uma variedade de questões relacionadas ao mercado automotivo global, desde as preferências dos clientes até a performance dos revendedores e fatores que influenciam os preços dos veículos. Essas análises proporcionarão uma visão abrangente e estratégica para os diversos agentes envolvidos na indústria automotiva.
 
